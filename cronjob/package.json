@@ -1,0 +1,23 @@
+{
+  "name": "spaceoutdemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sonugk/spaceoutDemo.git",
+  "author": "Sanjay Khandagale <sanjay.gk@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "yarn nodemon src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "log4js": "^6.3.0",
+    "mongoose": "^5.10.6",
+    "node-cron": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
