@@ -12,7 +12,7 @@ log4js.configure({
         log: {
             type: 'dateFile',
             // filename: 'servicelog.log',
-            filename: path.join(__dirname, '../log/service.log')
+            filename: path.join(__dirname, '../logs/service.log')
         }
     },
     categories: {
