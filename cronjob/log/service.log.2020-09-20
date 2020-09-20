@@ -1,0 +1,1833 @@
+[2020-09-20T14:28:24.071] [ERROR] log - Could not get facilities list data URL: https://www.spaceout.gov.sg/graphql?query={ geojsonPoint } 
+error: {}
+[2020-09-20T14:28:24.138] [ERROR] log - Could not get crowd levels data URL: https://www.spaceout.gov.sg/graphql?query={ facilities { id, band, createdAt, trend } } 
+error: {}
+[2020-09-20T14:29:18.376] [ERROR] log - Could not get facilities list data URL: https://www.spaceout.gov.sg/graphql?query={ geojsonPoint } 
+error: {}
+[2020-09-20T14:29:18.431] [ERROR] log - Could not get crowd levels data URL: https://www.spaceout.gov.sg/graphql?query={ facilities { id, band, createdAt, trend } } 
+error: {}
+[2020-09-20T15:40:02.244] [ERROR] log - Could not get facilities list data URL: https://www.spaceout.gov.sg/graphql?query={ geojsonPoint } 
+error: {}
+[2020-09-20T15:40:02.293] [ERROR] log - Could not get crowd levels data URL: https://www.spaceout.gov.sg/graphql?query={ facilities { id, band, createdAt, trend } } 
+error: {}
+[2020-09-20T15:40:55.285] [ERROR] log - Could not get crowd levels data URL: https://www.spaceout.gov.sg/graphql?query={ facilities { id, band, createdAt, trend } } 
+error: {}
+[2020-09-20T15:55:00.669] [ERROR] log - Could not get crowd levels data URL: https://www.spaceout.gov.sg/graphql?query={ facilities { id, band, createdAt, trend } }
+[2020-09-20T16:17:11.877] [INFO] log - Started fetchData() operation:
+[2020-09-20T16:17:12.106] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T16:17:12.119] [INFO] log - Trying to parse features list data
+[2020-09-20T16:17:12.157] [ERROR] log - catch (error) Could not get features list data URL: https://www.spaceout.gov.sg/graphql?query={ geojsonPoint } 
+error: {}
+[2020-09-20T16:17:12.210] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T16:17:12.210] [INFO] log - Trying to parse facilities list data
+[2020-09-20T16:17:12.294] [INFO] log - Ended fetchData() operation:
+[2020-09-20T16:22:34.464] [INFO] log - Started fetchData() operation:
+[2020-09-20T16:22:34.661] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T16:22:34.739] [INFO] log - Trying to parse features list data
+[2020-09-20T16:22:34.750] [ERROR] log - catch (error) Could not get features list data URL: https://www.spaceout.gov.sg/graphql?query={ geojsonPoint } 
+error: {}
+[2020-09-20T16:22:34.806] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T16:22:34.807] [INFO] log - Trying to parse facilities list data
+[2020-09-20T16:22:34.887] [INFO] log - Ended fetchData() operation:
+[2020-09-20T16:22:58.458] [INFO] log - Started fetchData() operation:
+[2020-09-20T16:22:58.970] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T16:22:59.081] [INFO] log - Trying to parse features list data
+[2020-09-20T16:23:00.063] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T16:23:00.064] [INFO] log - Trying to parse facilities list data
+[2020-09-20T16:23:00.121] [INFO] log - Ended fetchData() operation:
+[2020-09-20T16:35:07.634] [INFO] log - Started fetchData() operation:
+[2020-09-20T16:35:07.928] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T16:35:07.970] [INFO] log - Trying to parse features list data
+[2020-09-20T16:35:09.064] [INFO] log - Features list saved successfully
+[2020-09-20T16:35:09.069] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T16:35:09.069] [INFO] log - Trying to parse facilities list data
+[2020-09-20T16:35:09.128] [INFO] log - Ended fetchData() operation:
+[2020-09-20T16:35:09.269] [INFO] log - facilities list saved successfully
+[2020-09-20T16:46:14.944] [INFO] log - Started fetchData() operation:
+[2020-09-20T16:46:15.236] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T16:46:15.251] [INFO] log - Trying to parse features list data
+[2020-09-20T16:46:16.455] [INFO] log - Features list saved successfully
+[2020-09-20T16:46:16.459] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T16:46:16.459] [INFO] log - Trying to parse facilities list data
+[2020-09-20T16:46:16.532] [INFO] log - Ended fetchData() operation:
+[2020-09-20T16:46:16.662] [INFO] log - facilities list saved successfully
+[2020-09-20T16:50:31.115] [INFO] log - Started fetchData() operation:
+[2020-09-20T16:50:31.703] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T16:50:31.716] [INFO] log - Trying to parse features list data
+[2020-09-20T16:50:31.803] [INFO] log - Deleted features list data
+[2020-09-20T16:50:32.889] [INFO] log - Features list saved successfully
+[2020-09-20T16:50:32.891] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T16:50:32.892] [INFO] log - Trying to parse facilities list data
+[2020-09-20T16:50:32.919] [INFO] log - Deleted facilities list data
+[2020-09-20T16:50:32.979] [INFO] log - Ended fetchData() operation:
+[2020-09-20T16:50:33.109] [INFO] log - facilities list saved successfully
+[2020-09-20T16:51:09.374] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T16:51:09.585] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T16:51:09.597] [INFO] log - Trying to parse features list data
+[2020-09-20T16:51:09.647] [INFO] log - Deleted features list data
+[2020-09-20T16:51:11.043] [INFO] log - Features list saved successfully
+[2020-09-20T16:51:11.077] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T16:51:11.077] [INFO] log - Trying to parse facilities list data
+[2020-09-20T16:51:11.095] [INFO] log - Deleted facilities list data
+[2020-09-20T16:51:11.158] [INFO] log - Ended fetchData() operation:
+[2020-09-20T16:51:11.306] [INFO] log - facilities list saved successfully
+[2020-09-20T17:18:55.281] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T17:18:55.530] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T17:20:06.348] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T17:20:06.579] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T17:20:06.591] [INFO] log - Trying to parse features list data
+[2020-09-20T17:20:07.055] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T17:20:07.055] [INFO] log - Trying to parse facilities list data
+[2020-09-20T17:20:07.120] [INFO] log - Ended fetchData() operation:
+[2020-09-20T17:20:07.753] [INFO] log - Features list saved successfully
+[2020-09-20T17:20:07.771] [INFO] log - facilities list saved successfully
+[2020-09-20T17:21:29.986] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T17:21:30.217] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T17:21:30.230] [INFO] log - Trying to parse features list data
+[2020-09-20T17:21:30.749] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T17:21:30.749] [INFO] log - Trying to parse facilities list data
+[2020-09-20T17:21:30.820] [INFO] log - Ended fetchData() operation:
+[2020-09-20T17:21:31.545] [INFO] log - Features list saved successfully
+[2020-09-20T17:21:31.566] [INFO] log - facilities list saved successfully
+[2020-09-20T17:30:41.212] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T17:30:41.787] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T17:30:41.798] [INFO] log - Trying to parse features list data
+[2020-09-20T17:30:42.272] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T17:30:42.272] [INFO] log - Trying to parse facilities list data
+[2020-09-20T17:30:42.336] [INFO] log - Ended fetchData() operation:
+[2020-09-20T17:30:42.996] [INFO] log - Features list saved successfully
+[2020-09-20T17:30:43.018] [INFO] log - facilities list saved successfully
+[2020-09-20T17:31:09.189] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T17:31:09.457] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T17:31:09.469] [INFO] log - Trying to parse features list data
+[2020-09-20T17:31:09.920] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T17:31:09.920] [INFO] log - Trying to parse facilities list data
+[2020-09-20T17:31:09.984] [INFO] log - Ended fetchData() operation:
+[2020-09-20T17:31:10.634] [INFO] log - Features list saved successfully
+[2020-09-20T17:31:10.653] [INFO] log - facilities list saved successfully
+[2020-09-20T17:31:24.830] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T17:31:25.355] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T17:31:25.368] [INFO] log - Trying to parse features list data
+[2020-09-20T17:31:25.855] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T17:31:25.855] [INFO] log - Trying to parse facilities list data
+[2020-09-20T17:31:25.923] [INFO] log - Ended fetchData() operation:
+[2020-09-20T17:31:26.642] [INFO] log - Features list saved successfully
+[2020-09-20T17:31:26.685] [INFO] log - facilities list saved successfully
+[2020-09-20T17:31:33.016] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T17:31:33.214] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T17:31:33.228] [INFO] log - Trying to parse features list data
+[2020-09-20T17:31:33.779] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T17:31:33.779] [INFO] log - Trying to parse facilities list data
+[2020-09-20T17:31:33.845] [INFO] log - Ended fetchData() operation:
+[2020-09-20T17:31:34.494] [INFO] log - Features list saved successfully
+[2020-09-20T17:31:34.521] [INFO] log - facilities list saved successfully
+[2020-09-20T17:32:17.613] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T17:32:18.157] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T17:32:18.169] [INFO] log - Trying to parse features list data
+[2020-09-20T17:32:18.639] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T17:32:18.639] [INFO] log - Trying to parse facilities list data
+[2020-09-20T17:32:18.700] [INFO] log - Ended fetchData() operation:
+[2020-09-20T17:32:19.405] [INFO] log - Features list saved successfully
+[2020-09-20T17:32:19.429] [INFO] log - facilities list saved successfully
+[2020-09-20T17:40:53.769] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T17:40:54.310] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T17:40:54.321] [INFO] log - Trying to parse features list data
+[2020-09-20T17:40:54.393] [ERROR] log - catch (error) Could not delete features list data
+error: {"stringValue":"\"Promise { undefined }\"","kind":"string","value":{},"path":"ID","reason":null}
+[2020-09-20T17:40:55.012] [INFO] log - Features list saved successfully
+[2020-09-20T17:40:55.047] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T17:40:55.047] [INFO] log - Trying to parse facilities list data
+[2020-09-20T17:40:55.104] [INFO] log - Ended fetchData() operation:
+[2020-09-20T17:40:55.240] [INFO] log - facilities list saved successfully
+[2020-09-20T17:41:22.179] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T17:41:22.708] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T17:41:22.721] [INFO] log - Trying to parse features list data
+[2020-09-20T17:41:23.668] [INFO] log - Features list saved successfully
+[2020-09-20T17:41:23.670] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T17:41:23.671] [INFO] log - Trying to parse facilities list data
+[2020-09-20T17:41:23.731] [INFO] log - Ended fetchData() operation:
+[2020-09-20T17:41:24.768] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T17:41:25.011] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T17:41:25.023] [INFO] log - Trying to parse features list data
+[2020-09-20T17:41:25.711] [INFO] log - Features list saved successfully
+[2020-09-20T17:41:25.738] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T17:41:25.738] [INFO] log - Trying to parse facilities list data
+[2020-09-20T17:41:25.796] [INFO] log - Ended fetchData() operation:
+[2020-09-20T17:41:25.932] [INFO] log - facilities list saved successfully
+[2020-09-20T17:43:16.707] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T17:43:16.913] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T17:43:16.927] [INFO] log - Trying to parse features list data
+[2020-09-20T17:43:17.737] [INFO] log - Features list saved successfully
+[2020-09-20T17:43:17.763] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T17:43:17.763] [INFO] log - Trying to parse facilities list data
+[2020-09-20T17:43:17.814] [INFO] log - Ended fetchData() operation:
+[2020-09-20T17:43:17.959] [INFO] log - facilities list saved successfully
+[2020-09-20T17:43:59.168] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T17:43:59.383] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T17:43:59.395] [INFO] log - Trying to parse features list data
+[2020-09-20T17:44:00.254] [INFO] log - Features list saved successfully
+[2020-09-20T17:44:00.288] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T17:44:00.288] [INFO] log - Trying to parse facilities list data
+[2020-09-20T17:44:00.349] [INFO] log - Ended fetchData() operation:
+[2020-09-20T17:44:00.525] [INFO] log - facilities list saved successfully
+[2020-09-20T17:44:39.467] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T17:44:40.339] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T17:44:40.352] [INFO] log - Trying to parse features list data
+[2020-09-20T17:44:41.782] [INFO] log - Features list saved successfully
+[2020-09-20T17:44:41.785] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T17:44:41.785] [INFO] log - Trying to parse facilities list data
+[2020-09-20T17:44:41.845] [INFO] log - Ended fetchData() operation:
+[2020-09-20T17:44:41.991] [INFO] log - facilities list saved successfully
+[2020-09-20T17:44:51.628] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T17:44:51.865] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T17:44:51.880] [INFO] log - Trying to parse features list data
+[2020-09-20T17:44:53.286] [INFO] log - Features list saved successfully
+[2020-09-20T17:44:53.289] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T17:44:53.289] [INFO] log - Trying to parse facilities list data
+[2020-09-20T17:44:53.349] [INFO] log - Ended fetchData() operation:
+[2020-09-20T17:44:53.488] [INFO] log - facilities list saved successfully
+[2020-09-20T17:45:07.305] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T17:45:07.531] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T17:45:07.543] [INFO] log - Trying to parse features list data
+[2020-09-20T17:45:09.012] [INFO] log - Features list saved successfully
+[2020-09-20T17:45:09.051] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T17:45:09.051] [INFO] log - Trying to parse facilities list data
+[2020-09-20T17:45:09.107] [INFO] log - Ended fetchData() operation:
+[2020-09-20T17:45:09.251] [INFO] log - facilities list saved successfully
+[2020-09-20T17:45:28.357] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T17:45:28.577] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T17:45:28.592] [INFO] log - Trying to parse features list data
+[2020-09-20T17:45:30.190] [INFO] log - Features list saved successfully
+[2020-09-20T17:45:30.192] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T17:45:30.192] [INFO] log - Trying to parse facilities list data
+[2020-09-20T17:45:30.256] [INFO] log - Ended fetchData() operation:
+[2020-09-20T17:45:30.390] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:00.099] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:01.013] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:02.008] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:02.983] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:02.996] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:03.012] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:04.107] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:04.108] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:04.146] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:04.156] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:04.165] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:04.166] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:04.230] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:04.318] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:04.327] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:04.877] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:04.888] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:04.914] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:04.942] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:04.951] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:05.498] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:05.625] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:06.551] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:06.560] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:06.560] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:06.579] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:06.731] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:06.822] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:06.908] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:06.921] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:06.946] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:06.946] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:06.957] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:07.007] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:07.032] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:07.059] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:07.059] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:07.072] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:07.129] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:07.139] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:07.143] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:07.143] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:07.163] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:07.236] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:07.247] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:07.296] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:07.306] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:07.855] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:07.865] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:08.297] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:08.391] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:08.475] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:09.017] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:09.017] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:10.005] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:11.011] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:12.008] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:13.005] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:14.017] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:14.035] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:14.035] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:14.055] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:14.119] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:14.120] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:14.134] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:14.195] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:14.195] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:14.209] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:14.281] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:14.300] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:14.309] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:14.385] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:14.394] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:14.918] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:14.928] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:14.936] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:14.945] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:14.955] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:14.965] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:14.974] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:14.983] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:14.989] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:15.003] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:15.009] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:15.123] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:15.127] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:15.135] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:17.237] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:17.367] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:17.450] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:17.540] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:17.622] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:18.072] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:18.164] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:18.166] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:18.166] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:18.178] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:18.319] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:18.335] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:18.354] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:18.354] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:18.366] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:18.420] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:18.435] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:18.443] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:18.443] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:18.456] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:18.516] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:18.516] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:18.530] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:18.592] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:18.592] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:18.604] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:18.665] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:18.665] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:18.679] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:18.737] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:18.737] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:18.749] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:18.825] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:19.266] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:19.279] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:19.292] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:19.301] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:19.311] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:19.318] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:19.329] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:19.341] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:19.423] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:19.429] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:19.439] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:20.325] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:20.333] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:20.333] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:20.350] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:20.491] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:20.591] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:20.602] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:20.607] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:20.615] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:20.651] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:20.651] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:20.672] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:20.737] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:20.737] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:20.751] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:21.229] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:21.246] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:21.258] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:21.262] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:21.270] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:21.361] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:21.823] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:21.823] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:21.841] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:22.002] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:22.004] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:22.004] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:22.016] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:22.081] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:22.093] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:22.105] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:22.124] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:22.132] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:22.734] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:22.766] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:22.766] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:22.778] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:22.852] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:22.971] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:22.993] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:23.004] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:23.609] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:23.614] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:23.622] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:23.648] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:23.648] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:23.664] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:24.165] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:24.180] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:24.287] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:24.314] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:24.314] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:24.329] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:24.414] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:24.445] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:24.453] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:25.057] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:25.058] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:25.065] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:25.065] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:25.080] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:25.167] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:25.302] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:25.313] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:25.910] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:25.912] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:25.912] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:25.923] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:25.993] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:26.004] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:26.146] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:26.156] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:26.714] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:26.770] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:26.770] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:26.786] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:26.868] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:27.012] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:27.499] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:27.515] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:28.007] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:28.097] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:28.122] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:28.123] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:28.137] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:28.227] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:28.261] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:28.270] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:28.858] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:28.860] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:28.860] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:28.874] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:28.955] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:29.005] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:29.194] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:29.206] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:29.818] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:29.820] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:29.820] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:29.830] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:29.913] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:30.014] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:30.736] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:30.765] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:31.280] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:31.387] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:31.485] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:31.485] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:31.514] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:31.601] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:31.944] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:31.973] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:32.003] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:32.610] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:32.637] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:32.637] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:32.651] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:32.733] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:32.894] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:32.923] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:33.401] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:33.524] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:33.527] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:33.527] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:33.545] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:33.628] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:33.974] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:34.003] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:34.013] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:34.634] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:34.638] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:34.647] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:34.679] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:34.679] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:34.696] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:35.204] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:35.220] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:35.345] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:35.378] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:35.378] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:35.396] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:35.489] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:35.514] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:35.524] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:36.027] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:36.135] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:36.137] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:36.137] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:36.150] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:36.231] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:36.290] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:36.298] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:36.892] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:36.931] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:36.931] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:36.942] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:37.003] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:37.017] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:37.507] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:37.529] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:38.011] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:38.134] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:38.213] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:38.213] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:38.254] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:38.352] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:38.706] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:38.717] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:39.187] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:39.306] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:39.344] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:39.344] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:39.358] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:39.438] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:39.797] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:39.828] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:40.324] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:40.448] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:40.481] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:40.481] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:40.501] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:40.611] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:40.957] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:40.976] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:41.014] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:41.581] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:42.017] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:43.016] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:44.010] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:44.797] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:44.798] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:44.818] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:44.912] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:45.009] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:45.311] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:45.321] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:45.342] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:45.351] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:45.358] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:45.367] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:46.294] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:46.304] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:46.321] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:46.892] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:46.986] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:47.082] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:47.087] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:47.095] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:47.564] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:47.682] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:47.684] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:47.684] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:47.695] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:47.752] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:47.752] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:47.764] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:47.817] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:47.817] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:47.828] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:47.887] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:47.887] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:47.899] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:48.433] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:48.451] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:48.474] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:48.489] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:48.499] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:48.587] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:48.593] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:48.601] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:48.643] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:48.643] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:48.662] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:49.189] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:49.210] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:49.215] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:49.225] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:49.333] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:49.337] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:49.345] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:50.329] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:50.336] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:50.336] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:50.349] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:50.514] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:50.625] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:50.639] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:50.670] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:50.670] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:50.684] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:50.755] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:50.765] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:50.775] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:50.775] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:50.788] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:50.878] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:50.891] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:51.377] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:51.383] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:51.393] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:51.524] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:52.003] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:52.123] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:52.125] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:52.125] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:52.138] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:52.201] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:52.201] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:52.216] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:52.317] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:52.332] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:52.338] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:52.347] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:52.356] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:52.366] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:53.289] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:53.395] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:53.486] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:53.527] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:53.528] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:53.546] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:53.611] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:53.612] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:53.624] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:53.703] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:53.720] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:53.728] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:53.737] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:54.275] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:54.388] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:54.389] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:54.389] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:54.400] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:54.472] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:55.014] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:55.246] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:55.255] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:55.741] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:55.755] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:55.861] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:56.303] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:56.336] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:56.336] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:56.354] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:56.550] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:56.553] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:56.553] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:56.565] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:56.646] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:56.658] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:57.007] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:57.030] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:57.035] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:57.645] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:57.650] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:57.658] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:57.692] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:57.692] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:57.706] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:58.189] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:58.203] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:58.304] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:58.343] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:58.343] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:58.358] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:58.447] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:58.796] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:58.823] [INFO] log - Trying to parse features list data
+[2020-09-20T20:30:59.292] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T20:30:59.400] [INFO] log - Features list saved successfully
+[2020-09-20T20:30:59.402] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:30:59.402] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:30:59.416] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:30:59.491] [INFO] log - facilities list saved successfully
+[2020-09-20T20:30:59.500] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T20:30:59.508] [INFO] log - Trying to parse features list data
+[2020-09-20T20:31:00.113] [INFO] log - Features list saved successfully
+[2020-09-20T20:31:00.114] [INFO] log - Trying to parse facilities list dataLength: 402
+[2020-09-20T20:31:00.114] [INFO] log - Trying to parse facilities list data
+[2020-09-20T20:31:00.130] [INFO] log - Ended fetchData() operation:
+[2020-09-20T20:31:00.211] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:00.019] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:00.545] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:00.558] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:01.684] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:01.851] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:01.901] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:01.912] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:02.573] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:02.583] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:02.583] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:02.648] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:02.876] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:02.926] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:02.927] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:02.928] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:02.971] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:03.050] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:03.077] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:03.119] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:03.128] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:03.887] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:03.935] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:03.935] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:03.955] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:04.031] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:04.054] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:04.095] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:04.105] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:04.812] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:04.818] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:04.827] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:04.864] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:04.864] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:04.882] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:05.450] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:05.465] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:05.589] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:05.621] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:05.621] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:05.650] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:05.763] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:06.012] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:06.107] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:06.119] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:06.659] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:06.671] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:06.781] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:07.253] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:07.285] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:07.285] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:07.301] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:07.474] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:07.475] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:07.475] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:07.488] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:07.568] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:07.582] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:07.627] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:07.636] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:08.151] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:08.271] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:08.273] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:08.273] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:08.287] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:08.368] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:08.700] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:08.710] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:09.217] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:09.346] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:09.350] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:09.350] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:09.367] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:09.455] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:09.544] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:09.553] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:10.109] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:10.247] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:10.249] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:10.249] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:10.266] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:10.359] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:10.384] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:10.392] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:11.064] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:11.065] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:11.073] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:11.073] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:11.090] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:11.186] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:11.656] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:11.664] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:12.191] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:12.318] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:12.325] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:12.325] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:12.348] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:12.438] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:12.444] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:12.453] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:13.096] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:13.097] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:13.128] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:13.128] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:13.144] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:13.235] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:13.271] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:13.280] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:13.942] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:13.944] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:13.944] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:13.959] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:14.028] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:14.062] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:14.207] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:14.216] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:14.925] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:14.927] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:14.927] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:14.940] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:15.002] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:15.025] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:15.169] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:15.178] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:15.860] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:15.862] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:15.863] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:15.877] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:15.967] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:16.007] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:16.190] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:16.199] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:16.880] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:16.882] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:16.882] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:16.897] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:16.987] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:17.007] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:17.164] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:17.173] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:17.840] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:17.842] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:17.842] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:17.860] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:17.951] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:18.007] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:18.558] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:18.577] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:19.096] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:19.209] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:19.212] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:19.212] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:19.227] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:19.315] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:19.324] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:19.333] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:19.963] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:19.965] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:19.965] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:19.982] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:20.047] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:20.068] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:20.559] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:20.568] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:21.161] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:21.295] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:21.298] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:21.298] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:21.314] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:21.420] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:21.438] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:21.447] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:22.004] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:22.112] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:22.186] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:22.187] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:22.223] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:22.335] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:22.448] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:22.458] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:23.010] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:23.116] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:23.118] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:23.118] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:23.135] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:23.224] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:23.362] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:23.371] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:24.061] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:24.062] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:24.101] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:24.101] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:24.118] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:24.219] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:24.260] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:24.269] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:25.035] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:25.037] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:25.044] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:25.044] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:25.067] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:25.181] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:25.398] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:25.408] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:26.058] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:26.255] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:26.293] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:26.293] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:26.310] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:26.408] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:26.446] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:26.464] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:27.133] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:27.325] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:27.366] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:27.366] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:27.387] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:27.519] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:27.562] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:27.576] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:28.283] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:28.417] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:28.419] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:28.419] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:28.439] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:28.572] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:28.888] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:28.896] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:29.436] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:29.580] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:29.583] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:29.583] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:29.600] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:29.692] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:29.701] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:29.709] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:30.227] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:30.348] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:30.351] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:30.351] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:30.364] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:30.451] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:30.466] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:30.475] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:31.002] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:31.103] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:31.105] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:31.106] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:31.117] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:31.244] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:31.658] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:31.668] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:32.209] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:32.341] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:32.343] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:32.343] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:32.357] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:32.444] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:32.786] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:32.798] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:33.306] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:33.432] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:33.435] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:33.435] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:33.450] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:33.544] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:33.888] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:33.903] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:34.404] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:34.537] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:34.539] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:34.539] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:34.553] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:34.643] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:34.670] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:34.678] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:35.193] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:35.338] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:35.341] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:35.341] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:35.360] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:35.452] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:35.476] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:35.484] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:36.013] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:36.129] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:36.134] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:36.134] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:36.159] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:36.249] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:36.267] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:36.275] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:36.888] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:36.890] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:36.890] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:36.904] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:36.978] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:37.015] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:37.467] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:37.480] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:38.001] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:38.117] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:38.120] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:38.120] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:38.135] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:38.247] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:38.327] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:38.336] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:38.949] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:38.951] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:38.951] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:38.966] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:39.035] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:39.058] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:39.191] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:39.201] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:39.829] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:39.831] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:39.831] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:39.844] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:39.945] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:40.014] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:40.155] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:40.164] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:40.767] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:40.769] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:40.769] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:40.781] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:40.859] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:41.014] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:41.501] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:41.522] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:42.027] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:42.155] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:42.239] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:42.240] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:42.269] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:42.361] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:42.708] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:42.729] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:43.213] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:43.337] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:43.340] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:43.340] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:43.354] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:43.439] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:43.447] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:43.456] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:44.079] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:44.080] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:44.087] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:44.088] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:44.102] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:44.190] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:44.656] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:44.665] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:45.167] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:45.283] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:45.284] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:45.285] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:45.299] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:45.392] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:45.399] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:45.409] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:46.050] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:46.051] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:46.070] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:46.070] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:46.090] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:46.180] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:46.313] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:46.322] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:47.016] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:47.016] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:47.027] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:47.027] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:47.060] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:47.152] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:47.303] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:47.313] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:47.955] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:47.957] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:47.957] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:47.972] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:48.033] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:48.057] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:48.200] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:48.210] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:48.951] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:48.954] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:48.954] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:48.971] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:49.047] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:49.069] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:49.535] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:49.544] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:50.102] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:50.250] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:50.253] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:50.253] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:50.269] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:50.364] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:50.385] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:50.394] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:51.095] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:51.096] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:51.107] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:51.107] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:51.126] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:51.225] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:51.670] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:51.680] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:52.293] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:52.427] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:52.430] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:52.430] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:52.445] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:52.555] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:52.916] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:52.926] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:53.483] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:53.624] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:53.626] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:53.626] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:53.643] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:53.733] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:53.760] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:53.771] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:54.317] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:54.478] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:54.481] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:54.481] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:54.498] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:54.605] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:54.947] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:54.956] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:55.012] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:55.733] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:55.736] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:55.736] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:55.754] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:55.854] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:55.859] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:55.868] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:56.388] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:56.527] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:56.554] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:56.554] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:56.572] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:56.667] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:56.704] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:56.716] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:57.352] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:57.477] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:57.480] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:57.480] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:57.502] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:57.624] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:57.644] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:57.655] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:58.195] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:58.329] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:58.330] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:58.330] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:58.346] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:58.435] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:58.457] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:58.467] [INFO] log - Trying to parse features list data
+[2020-09-20T22:30:59.002] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T22:30:59.122] [INFO] log - Features list saved successfully
+[2020-09-20T22:30:59.125] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:30:59.125] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:30:59.140] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:30:59.227] [INFO] log - facilities list saved successfully
+[2020-09-20T22:30:59.669] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T22:30:59.683] [INFO] log - Trying to parse features list data
+[2020-09-20T22:31:00.316] [INFO] log - Features list saved successfully
+[2020-09-20T22:31:00.345] [INFO] log - Trying to parse facilities list dataLength: 401
+[2020-09-20T22:31:00.345] [INFO] log - Trying to parse facilities list data
+[2020-09-20T22:31:00.362] [INFO] log - Ended fetchData() operation:
+[2020-09-20T22:31:00.472] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:00.023] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:00.235] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:00.248] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:01.212] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:01.365] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:01.369] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:01.369] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:01.435] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:01.631] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:01.929] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:01.942] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:02.526] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:02.687] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:02.691] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:02.691] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:02.712] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:02.855] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:02.860] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:02.869] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:03.421] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:03.559] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:03.563] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:03.563] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:03.585] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:03.699] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:03.726] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:03.734] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:04.269] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:04.390] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:04.395] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:04.396] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:04.428] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:04.543] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:04.546] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:04.554] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:05.089] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:05.255] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:05.258] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:05.258] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:05.278] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:05.385] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:05.390] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:05.402] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:06.082] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:06.083] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:06.091] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:06.091] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:06.109] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:06.205] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:06.363] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:06.372] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:07.025] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:07.026] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:07.034] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:07.034] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:07.052] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:07.168] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:07.638] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:07.647] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:08.185] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:08.320] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:08.322] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:08.322] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:08.341] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:08.446] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:08.474] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:08.482] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:09.066] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:09.198] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:09.202] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:09.203] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:09.222] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:09.335] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:09.359] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:09.368] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:10.033] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:10.034] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:10.043] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:10.043] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:10.061] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:10.172] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:10.600] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:10.609] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:11.152] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:11.269] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:11.272] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:11.272] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:11.290] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:11.399] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:11.403] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:11.412] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:12.065] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:12.066] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:12.074] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:12.074] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:12.094] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:12.202] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:12.363] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:12.372] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:13.036] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:13.037] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:13.045] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:13.045] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:13.063] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:13.175] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:13.307] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:13.317] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:13.997] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:14.000] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:14.000] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:14.019] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:14.101] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:14.127] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:14.610] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:14.619] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:15.182] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:15.350] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:15.353] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:15.353] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:15.385] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:15.533] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:15.880] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:15.889] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:16.424] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:16.563] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:16.565] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:16.565] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:16.583] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:16.700] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:16.742] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:16.752] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:17.288] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:17.415] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:17.418] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:17.418] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:17.436] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:17.547] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:17.568] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:17.576] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:18.111] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:18.239] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:18.241] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:18.241] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:18.266] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:18.378] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:18.391] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:18.400] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:19.063] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:19.064] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:19.072] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:19.072] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:19.089] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:19.188] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:19.325] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:19.335] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:20.009] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:20.010] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:20.019] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:20.019] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:20.038] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:20.147] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:20.279] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:20.289] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:20.954] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:20.957] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:20.957] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:20.976] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:21.058] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:21.086] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:21.230] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:21.239] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:21.939] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:21.942] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:21.942] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:21.962] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:22.049] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:22.074] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:22.554] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:22.568] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:23.115] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:23.257] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:23.259] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:23.259] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:23.281] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:23.391] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:23.422] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:23.432] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:24.002] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:24.142] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:24.145] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:24.145] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:24.164] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:24.274] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:24.590] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:24.600] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:25.208] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:25.335] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:25.340] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:25.340] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:25.364] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:25.488] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:25.492] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:25.502] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:26.060] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:26.192] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:26.196] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:26.196] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:26.215] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:26.325] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:26.332] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:26.341] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:27.001] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:27.003] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:27.004] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:27.021] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:27.104] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:27.133] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:27.585] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:27.595] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:28.122] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:28.256] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:28.258] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:28.258] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:28.275] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:28.377] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:28.900] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:28.909] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:29.452] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:29.592] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:29.594] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:29.594] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:29.612] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:29.721] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:30.009] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:30.053] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:30.062] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:30.732] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:30.738] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:30.746] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:30.766] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:30.766] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:30.785] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:31.330] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:31.392] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:31.494] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:31.536] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:31.536] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:31.556] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:31.670] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:32.004] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:32.012] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:32.021] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:32.676] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:32.681] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:32.690] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:32.727] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:32.727] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:32.746] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:33.293] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:33.319] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:33.422] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:33.459] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:33.459] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:33.479] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:33.600] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:33.618] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:33.627] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:34.188] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:34.319] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:34.320] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:34.320] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:34.337] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:34.434] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:34.448] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:34.456] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:35.009] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:35.144] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:35.234] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:35.234] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:35.259] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:35.389] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:35.394] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:35.405] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:36.100] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:36.101] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:36.108] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:36.109] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:36.128] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:36.234] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:36.374] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:36.384] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:37.049] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:37.050] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:37.057] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:37.057] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:37.079] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:37.184] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:37.345] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:37.353] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:37.999] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:38.001] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:38.001] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:38.019] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:38.094] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:38.130] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:38.588] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:38.598] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:39.149] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:39.276] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:39.279] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:39.279] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:39.294] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:39.398] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:39.402] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:39.412] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:40.092] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:40.093] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:40.101] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:40.101] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:40.120] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:40.230] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:40.367] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:40.376] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:41.036] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:41.037] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:41.045] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:41.046] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:41.066] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:41.172] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:41.283] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:41.293] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:41.957] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:41.958] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:41.958] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:41.983] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:42.091] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:42.117] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:42.563] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:42.572] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:43.105] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:43.224] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:43.226] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:43.226] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:43.243] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:43.360] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:43.656] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:43.666] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:44.217] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:44.347] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:44.350] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:44.350] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:44.369] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:44.477] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:44.482] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:44.491] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:45.035] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:45.167] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:45.169] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:45.169] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:45.188] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:45.325] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:45.350] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:45.360] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:46.009] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:46.010] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:46.018] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:46.018] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:46.036] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:46.148] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:46.292] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:46.302] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:46.901] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:46.901] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:46.918] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:47.085] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:47.087] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:47.104] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:47.249] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:47.257] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:47.922] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:47.924] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:47.924] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:47.945] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:48.029] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:48.055] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:48.533] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:48.565] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:49.129] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:49.257] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:49.285] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:49.285] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:49.303] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:49.415] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:49.431] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:49.440] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:50.002] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:50.124] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:50.127] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:50.127] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:50.149] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:50.267] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:50.701] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:50.710] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:51.267] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:51.404] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:51.406] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:51.406] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:51.423] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:51.537] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:51.870] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:51.880] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:52.471] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:52.611] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:52.613] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:52.613] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:52.631] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:52.739] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:53.007] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:53.157] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:53.166] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:53.184] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:53.194] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:54.282] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:54.399] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:54.497] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:54.532] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:54.533] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:54.551] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:54.637] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:54.637] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:54.653] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:54.743] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:54.762] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:54.832] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:54.842] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:55.454] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:55.603] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:55.607] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:55.607] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:55.633] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:55.745] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:55.770] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:55.780] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:56.310] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:56.440] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:56.442] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:56.442] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:56.461] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:56.585] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:56.590] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:56.599] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:57.134] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:57.269] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:57.271] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:57.271] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:57.290] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:57.400] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:57.439] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:57.448] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:58.003] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:58.104] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:58.107] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:58.107] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:58.124] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:58.224] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:58.332] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:58.341] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:59.014] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:59.017] [INFO] log - 
+Started fetchData() operation:
+[2020-09-20T23:30:59.028] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:59.029] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:59.043] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:30:59.139] [INFO] log - facilities list saved successfully
+[2020-09-20T23:30:59.287] [INFO] log - Trying to parse features list dataLength: 826593
+[2020-09-20T23:30:59.295] [INFO] log - Trying to parse features list data
+[2020-09-20T23:30:59.965] [INFO] log - Features list saved successfully
+[2020-09-20T23:30:59.967] [INFO] log - Trying to parse facilities list dataLength: 470
+[2020-09-20T23:30:59.967] [INFO] log - Trying to parse facilities list data
+[2020-09-20T23:30:59.988] [INFO] log - Ended fetchData() operation:
+[2020-09-20T23:31:00.099] [INFO] log - facilities list saved successfully

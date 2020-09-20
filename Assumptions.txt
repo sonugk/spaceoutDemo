@@ -1,0 +1,6 @@
+Assumptions:
+1. Features List must be unique based on ID property, if same feature is received in API it will be overwritten by new one
+2. Crowd Levels/Facilities data is a data point hence all past records need to be maintained
+3. The cron job is made platform OS independent as target deployment environment is not specified
+4. GET /facilities API returns Features received in first API
+5. GET /crowdlevels API returns Facilities received in second API

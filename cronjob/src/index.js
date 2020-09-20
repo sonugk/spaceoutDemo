@@ -1,4 +1,5 @@
 require("dotenv").config();
+const moment = require("moment")
 const { decrypt, encrypt } = require("./crypto");
 const mongoose = require("mongoose");
 const express = require("express");
@@ -40,21 +41,28 @@ async function fetchData() {
             }
             const featuresData = JSON.parse(decrypt(data.data.geojsonPoint));
             logger.info("Trying to parse features list data");
-            await Features.deleteMany({}).then(()=>logger.info("Deleted features list data")).catch((err) => {
-                console.log("catch (error) Could not delete features list data \nerror:", err);
-                logger.error("catch (error) Could not delete features list data \nerror:", JSON.stringify(err));
+            // await Features.deleteMany({}).then(()=>logger.info("Deleted features list data")).catch((err) => {
+            //     console.log("catch (error) Could not delete features list data \nerror:", err);
+            //     logger.error("catch (error) Could not delete features list data \nerror:", JSON.stringify(err));
+            // });
+            let deleteIds = featuresData.jsonstring.features.map((item, index) => item.properties.ID);
+            //console.log("deleteIds:", deleteIds);
+            await Features.deleteMany({ ID: { $in: deleteIds } }).catch((err) => {
+                console.log("catch (error) Could not delete features list data\nerror:", err);
+                logger.error("catch (error) Could not delete features list data\nerror:", JSON.stringify(err));
             });
-            Features.insertMany(featuresData.jsonstring.features.map((item, index) => new Features({
+            featuresArray = featuresData.jsonstring.features.map((item, index) => new Features({
                 ...item,
                 ...item.properties
-            }))).then(() => logger.info("Features list saved successfully")).catch(err => {
+            }));
+            console.log("featuresArray:", featuresArray && featuresArray.length);
+            Features.insertMany(featuresArray).then(() => logger.info("Features list saved successfully")).catch(err => {
                 console.log("Features.insertMany: Could not save features list data URL:", process.env.FEATURES_LIST_URL, "\nerror:", err);
                 logger.error("Features.insertMany: Could not save features list data URL:", process.env.FEATURES_LIST_URL, "\nerror:", JSON.stringify(err));
             });
 
         } catch (error) {
             console.log("catch (error) Could not get features list data URL:", process.env.FEATURES_LIST_URL, "\nerror:", error);
-            logger.error("catch (error) Could not get features list data URL:", process.env.FEATURES_LIST_URL, "\nerror:", JSON.stringify(error));
         }
         //Fetching Facilities and descryoting data to save in mongo DB Features collection
         try {
@@ -71,13 +79,15 @@ async function fetchData() {
             }
             const facilitiesData = data.data.facilities;
             logger.info("Trying to parse facilities list data");
-            await Facilities.deleteMany({}).then(()=>logger.info("Deleted facilities list data")).catch((err) => {
-                console.log("catch (error) Could not delete facilities list data \nerror:", err);
-                logger.error("catch (error) Could not delete facilities list data \nerror:", JSON.stringify(err));
-            });
-            Facilities.insertMany(facilitiesData.map((item, index) => new Facilities({
-                ...item
-            }))).then(() => logger.info("facilities list saved successfully")).catch(err => {
+            // await Facilities.deleteMany({}).then(()=>logger.info("Deleted facilities list data")).catch((err) => {
+            //     console.log("catch (error) Could not delete facilities list data \nerror:", err);
+            //     logger.error("catch (error) Could not delete facilities list data \nerror:", JSON.stringify(err));
+            // });
+            let facilitiesArray = facilitiesData.map((item, index) => new Facilities({
+                ...item, //createdAt: moment(item.createdAt).toDate()
+            }));
+            console.log("facilitiesArray:", facilitiesArray && facilitiesArray.length);
+            Facilities.insertMany(facilitiesArray).then(() => logger.info("facilities list saved successfully")).catch(err => {
                 console.log("facilities.insertMany: Could not save facilities list data URL:", process.env.facilities_LIST_URL, "\nerror:", err);
                 logger.error("facilities.insertMany: Could not save facilities list data URL:", process.env.facilities_LIST_URL, "\nerror:", JSON.stringify(err));
             });
@@ -114,6 +124,7 @@ mongoDb.once('open', () => {
 const app = express();
 console.log(`process.env.JOB_INTERVAL_IN_MINS:${process.env.JOB_INTERVAL_IN_MINS}`);
 //Scheduling cron job via express server process
-cron.schedule(`* ${process.env.JOB_INTERVAL_IN_MINS} * * * *`, fetchData());
+cron.schedule(`* ${process.env.JOB_INTERVAL_IN_MINS} * * * *`, () => { fetchData(); });
 //Starting express server service
 app.listen(parseInt(process.env.SERVER_PORT), () => console.log(`Server started at ${process.env.SERVER_PORT}`));
+fetchData();
