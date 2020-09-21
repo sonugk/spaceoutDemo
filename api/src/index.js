@@ -36,7 +36,7 @@ const NOT_AUTHENTICATED_ERROR = "Invalid credentials provided";
 // const user=new Users({
 //     name:"Sanjay",
 //     email:"sonugk@gmail.com",
-//     pwd:"ba3253876aed6bc22d4a6ff53d8406c6ad864195ed144ab5c87621b6c233b548baeae6956df346ec8c17f5ea10f35ee3cbc514797ed7ddd3145464e2a0bab413",    
+//     pwd:encPassword  
 // });
 // user.save();
 
@@ -151,11 +151,12 @@ app.get('/crowdlevels', async (req, res) => {
         filter = Object.assign(filter, { trend: req.query.trend });
     }
     if (req.query.fromdate && moment(req.query.fromdate) && moment().diff(moment(req.query.fromdate)) > 0) {
-        filter = Object.assign(filter, { createdAt: { $gte: moment(req.query.fromdate).toISOString() } });
+        //filter = Object.assign(filter, { createdAt: { $gte: moment(req.query.fromdate).toISOString() } });
+        filter = Object.assign(filter, { createdAt: { $gte: moment(req.query.fromdate).toDate() } });
         isdatefiltered = true;
     }
     if (req.query.todate && moment(req.query.todate) && moment().diff(moment(req.query.todate)) > 0) {
-        filter = Object.assign(filter, { createdAt: { $lte: moment(req.query.todate).toISOString() } });
+        filter = Object.assign(filter, { createdAt: { $lte: moment(req.query.todate).toDate() } });
         isdatefiltered = true;
     };
     console.log("filter,sort,skip,pagesize,isdatefiltered:", filter, sort, skip, pagesize, isdatefiltered);
@@ -167,6 +168,7 @@ app.get('/crowdlevels', async (req, res) => {
                     _id: "$id",
                     band: { $avg: "$band" },
                     trend: { $first: "$trend" },
+                    createdAt: { $first: "$createdAt" },
                 }
             },
             {
@@ -194,7 +196,22 @@ app.get('/crowdlevels', async (req, res) => {
             { $limit: pagesize },
         ]);
     }
-    res.json({ message: 'Record(s) found', success: true, data: records });
+    let facilitiesRecords = [];
+    //Assuming Features ID is foreign key to Facilities id property and we need features data too along with facilities data, otherwise we can comment below if statement
+    if (records && records.length > 0) {
+        console.log("records && records.length:", facilitiesRecords);
+        for (let i = 0; i < records.length; i++) {
+            let item = records[i];
+            let feature = await Features.findOne({ ID: item._id });
+            if (feature) {
+                facilitiesRecords.push({ ...item, ...feature.toObject() });
+            } else {
+                facilitiesRecords.push(item);
+            }
+        }
+        console.log("facilitiesRecords:", facilitiesRecords);
+    }
+    res.json({ message: 'Record(s) found', success: true, data: facilitiesRecords });
     return;
 });
 
@@ -216,4 +233,6 @@ mongoDb.once('open', () => {
     console.log('info', `Connected to database: ${process.env.MONGODB_SERVER}`)
 });
 
-app.listen(parseInt(process.env.SERVER_PORT), () => console.log(`API Server started at ${process.env.SERVER_PORT}`));
+let server = app.listen(parseInt(process.env.SERVER_PORT), () => console.log(`API Server started at ${process.env.SERVER_PORT}`));
+
+module.exports = { app, server };

@@ -4,3 +4,4 @@ Assumptions:
 3. The cron job is made platform OS independent as target deployment environment is not specified
 4. GET /facilities API returns Features received in first API
 5. GET /crowdlevels API returns Facilities received in second API
+6. Assuming Features ID is foreign key to Facilities id property and we need features data too along with facilities data, otherwise we can comment last if statement of Get /facilities api
