@@ -2,14 +2,14 @@ const request = require('supertest');
 const { app, server } = require('./index');
 
 test('Login API Success Test', async () => {
-    const res = await request(app).post('/login').send({ email: "sonugk@gmail.com", pwd: "123456" });
+    const res = await request(app).post('/login').send({ email: "test@gmail.com", pwd: "123456" });
     expect(res.status).toBe(200);
     expect(res.body.success).toBe(true);
     expect(res.body.data).not.toBe(undefined);
 });
 
 test('Login API Failure Test', async () => {
-    const res = await request(app).post('/login').send({ email: "sonugk@gmail.com", pwd: "123" });
+    const res = await request(app).post('/login').send({ email: "test@gmail.com", pwd: "123" });
     expect(res.status).toBe(200);
     expect(res.body.success).toBe(false);
     expect(res.body.data).toBe(undefined);
