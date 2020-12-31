@@ -29,17 +29,6 @@ log4js.configure({
 const logger = log4js.getLogger('log');
 const NOT_AUTHENTICATED_ERROR = "Invalid credentials provided";
 
-// const hash = crypto.createHash('sha512');
-// const data = hash.update("123456", 'utf-8');
-// const encPassword = String(data.digest('hex'));
-// console.log("encPassword:",encPassword);
-// const user=new Users({
-//     name:"Sanjay",
-//     email:"sonugk@gmail.com",
-//     pwd:encPassword  
-// });
-// user.save();
-
 //Login API method
 app.post('/login', async (req, res) => {
     logger.info('Login', JSON.stringify({ ...req.body, password: '****' }));
